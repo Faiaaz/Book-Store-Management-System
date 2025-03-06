@@ -1,0 +1,18 @@
+[
+    {
+        "isbn": "23",
+        "title": "Harry Potter",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "price": 30.0,
+        "quantity": 4
+    },
+    {
+        "isbn": "45",
+        "title": "Himu",
+        "author": "Humayun Ahmed",
+        "genre": "novel",
+        "price": 20.0,
+        "quantity": 7
+    }
+]
